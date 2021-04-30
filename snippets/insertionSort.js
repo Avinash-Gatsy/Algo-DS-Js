@@ -1,3 +1,5 @@
+//https://visualgo.net/en/sorting
+
 function insertionSort(arr){
     for(var i=1; i < arr.length; i++){
         let curr = arr[i];

@@ -17,3 +17,5 @@ selectionSort([35,22,9,12,87,45]);
 
 //OUTPUT
 //[9, 12, 22, 35, 45, 87]
+
+//https://visualgo.net/en/sorting
